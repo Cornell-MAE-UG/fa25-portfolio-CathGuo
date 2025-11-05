@@ -8,12 +8,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Yunting Catherine Guo
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : Yunting Catherine Guo
+description              : Yunting Catherine Guo - Projects and CV 
+baseurl                  : "/fall-2025-portfolio-CathGuo/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal

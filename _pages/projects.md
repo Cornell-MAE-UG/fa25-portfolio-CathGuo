@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Yunting Catherine Guo - Portfolio
 permalink: /projects/
 ---
 
