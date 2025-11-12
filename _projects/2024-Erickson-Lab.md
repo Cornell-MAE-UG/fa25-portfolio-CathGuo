@@ -11,7 +11,7 @@ As an undergraduate researcher in the Erickson Lab at Cornell University, I cont
 <!--
 <img src="/assets/images/cassette_assemble_v6.png" alt="FeverPhone LFA cassettes" style="float: right; width: 280px; margin-left: 20px; margin-bottom: 15px;">
 -->
-<img src="{{ /assets/images/cassette_assemble_v6.png | relative_url }}" alt="FeverPhone LFA cassettes" style="float: right; width: 280px; margin-left: 20px; margin-bottom: 15px;"/>
+![FeverPhone LFA cassettes]({{ "/assets/images/cassette_assemble_v6.png" | relative_url }}){: .inline-image-l}
 
 ## FeverPhone: Hemorrhagic Fever Detection
 
@@ -27,7 +27,10 @@ Each design iteration was validated through colorimetric assays to ensure reliab
 
 ## PoCBreCa: Breast Cancer Biomarker Detection
 
+<!--
 <img src="{{ /assets/images/splitter_assembly_v7.png | relative_url }}" alt="PoCBreCa three-channel cassette" style="float: left; width: 280px; margin-right: 20px; margin-bottom: 15px;"/>
+-->
+![PoCBreCa three-channel cassette]({{ "/assets/images/splitter_assembly_v7.png" | relative_url }}){: .inline-image-l}
 
 For the PoCBreCa (Point-of-Care Breast Cancer) project, I developed three-channel cassette designs for simultaneous detection of multiple breast cancer biomarkers including Progesterone Receptor (PR), Estrogen Receptor (ER), and HER2.
 
@@ -43,7 +46,10 @@ The multi-channel design required careful attention to mechanical tolerances and
 
 ## BioTracking: Commercial Cassette Integration
 
+<!--
 <img src="{{ /assets/images/tray_v2_home_view.png | relative_url }}" alt="Commercial cassette tray design" style="float: right; width: 280px; margin-left: 20px; margin-bottom: 15px;"/>
+-->
+![Commercial cassette tray design]({{ "/assets/images/tray_v2_home_view.png" | relative_url }}){: .inline-image-l}
 
 I designed a custom cassette tray system to integrate commercially available LFA strips into our smartphone-based imaging device. This adapter allows the platform to work with off-the-shelf test cassettes, greatly expanding the system's versatility.
 
@@ -57,7 +63,11 @@ This work demonstrates the ability to bridge custom research devices with existi
 
 ## ReproPhone: Reproductive Health Diagnostics
 
+<!--
 <img src="{{ /assets/images/reprophone_assembly_v1.png | relative_url }}" alt="Reprophone double-strip cassette" style="float: left; width: 280px; margin-right: 20px; margin-bottom: 15px;"/>
+-->
+![Reprophone double-strip cassette]({{ "/assets/images/reprophone_assembly_v1.png" | relative_url }}){: .inline-image-l}
+
 
 Currently, I'm developing a double-strip cassette system for the ReproPhone project, focused on reproductive health diagnostics. This design combines elements from previous projects while introducing new requirements:
 - Dual-strip configuration for simultaneous multi-analyte testing
