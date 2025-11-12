@@ -11,7 +11,7 @@ As an undergraduate researcher in the Erickson Lab at Cornell University, I cont
 <!--
 <img src="/assets/images/cassette_assemble_v6.png" alt="FeverPhone LFA cassettes" style="float: right; width: 280px; margin-left: 20px; margin-bottom: 15px;">
 -->
-![FeverPhone LFA cassettes]({{ "/assets/images/cassette_assemble_v6.png" | relative_url }}){: .inline-image-l}
+![FeverPhone LFA cassettes]({{ "/assets/images/cassette_assemble_v6.png" | relative_url }}){: .inline-image-r}
 
 ## FeverPhone: Hemorrhagic Fever Detection
 
@@ -49,7 +49,7 @@ The multi-channel design required careful attention to mechanical tolerances and
 <!--
 <img src="{{ /assets/images/tray_v2_home_view.png | relative_url }}" alt="Commercial cassette tray design" style="float: right; width: 280px; margin-left: 20px; margin-bottom: 15px;"/>
 -->
-![Commercial cassette tray design]({{ "/assets/images/tray_v2_home_view.png" | relative_url }}){: .inline-image-l}
+![Commercial cassette tray design]({{ "/assets/images/tray_v2_home_view.png" | relative_url }}){: .inline-image-r}
 
 I designed a custom cassette tray system to integrate commercially available LFA strips into our smartphone-based imaging device. This adapter allows the platform to work with off-the-shelf test cassettes, greatly expanding the system's versatility.
 
