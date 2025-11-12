@@ -8,7 +8,10 @@ image: /assets/images/20250708_ImagingSystem-CLEcassette_out.PNG
 
 As an undergraduate researcher in the Erickson Lab at Cornell University, I contribute to the development of point-of-care diagnostic devices that combine microfluidics, biosensing, and smartphone imaging for accessible medical testing.
 
+<!--
 <img src="/assets/images/cassette_assemble_v6.png" alt="FeverPhone LFA cassettes" style="float: right; width: 280px; margin-left: 20px; margin-bottom: 15px;">
+-->
+[cassette assemble]({{ "/assets/images/cassette_assemble_v6.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 ## FeverPhone: Hemorrhagic Fever Detection
 
