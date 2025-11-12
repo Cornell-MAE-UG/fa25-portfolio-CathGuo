@@ -13,11 +13,11 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Yunting Catherine Guo
 description              : Yunting Catherine Guo - Projects and CV 
-baseurl                  : "/fall-2025-portfolio-CathGuo/" # Set this to your repo name 
+baseurl                  : "/fa25-portfolio-CathGuo/" # Set this to your repo name 
 
 # Theme and Style
-theme: jekyll-theme-minimal
-color_scheme: light # light/default, dark, or aqua
+theme: minima # jekyll-theme-minimal
+color_scheme: aqua # light/default, dark, or aqua
 
 sass:
   style: compressed
