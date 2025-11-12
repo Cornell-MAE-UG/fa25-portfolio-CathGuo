@@ -5,9 +5,10 @@ title: Yunting Catherine Guo
 
 ## About Me
 
-
+<!-->
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
-
+-->
+<img src="{{ /assets/images/profile-pic.jpg | relative_url }}" />
  
 My name is {{ site.name }}, and I am a passionate mechanical and aerospace engineering student at Cornell University. 
 

@@ -16,7 +16,7 @@ description              : Yunting Catherine Guo - Projects and CV
 baseurl                  : "/fa25-portfolio-CathGuo/" # Set this to your repo name 
 
 # Theme and Style
-theme: minima # jekyll-theme-minimal
+theme: jekyll-theme-minimal
 color_scheme: aqua # light/default, dark, or aqua
 
 sass:
