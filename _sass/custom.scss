@@ -116,14 +116,19 @@ footer {
   &-l {
     @extend .inline-image;
     float: left;
-    margin-left: 0;
+    width: 280px;
+    margin-right: 20px;
+    margin-bottom: 15px;
   }
 
   &-r {
     @extend .inline-image;
     float: right;
-    margin-right: 0;
+    width: 280px;
+    margin-left: 20px;
+    margin-bottom: 15px;
   }
+
 }
 
 .profile-image, .project-image {
