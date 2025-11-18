@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Medical Diagnostic Device Design
+title: Diagnostic Device Design
 description: Point-of-Care Diagnostic Cassette Development
 technologies: [Autodesk Fusion 360, SolidWorks, 3D Printing, Lateral Flow Assays, Biomedical Engineering]
 image: /assets/images/20250708_ImagingSystem-CLEcassette_out.PNG

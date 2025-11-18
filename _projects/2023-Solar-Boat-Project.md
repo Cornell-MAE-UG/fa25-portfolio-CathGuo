@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Cornell University Solar Boat - Hull Subteam
+title: CUSB - Hull Subteam
 description: Steering System Design & Composite Structure Fabrication
 technologies: [Mechanical Design, Cable-Driven Systems, Composite Fabrication, Team Collaboration]
 image: /assets/images/Solar-splash-2024.JPG
