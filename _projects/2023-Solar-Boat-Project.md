@@ -10,7 +10,7 @@ As Hull Subteam Lead for Cornell University Solar Boat, I lead the design and fa
 
 ## Cable-Driven Steering System
 
-![Steering wheel assembly]({{ "/assets/images/steering-3.png" | relative_url }}){: .inline-image-r}
+![Steering wheel assembly]({{ "/assets/images/steering-3.jpg" | relative_url }}){: .inline-image-r}
 
 My primary contribution this year has been designing and installing a new cable-driven steering system. Taking over this responsibility from the Drivetrain subteam, I developed a mechanical system that provides precise directional control for the pilot.
 
@@ -26,7 +26,7 @@ The wooden framework provides a sturdy mounting platform while keeping weight ma
 
 ### Cable Routing & Tensioning
 
-![Drivetrain connection]({{ "/assets/images/steering-1.png" | relative_url }}){: .inline-image-l}
+![Drivetrain connection]({{ "/assets/images/steering-1.jpg" | relative_url }}){: .inline-image-l}
 
 The stern assembly connects the steering cables to the rudder mechanism:
 - **Steel cables**: Braided stainless steel for strength and corrosion resistance

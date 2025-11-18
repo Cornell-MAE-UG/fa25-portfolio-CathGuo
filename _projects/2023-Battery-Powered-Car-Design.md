@@ -10,7 +10,7 @@ For the ENGRI 1170 final project, our team designed and manufactured a battery-p
 
 ## Design Concept
 
-![High-speed mode]({{ "/assets/images/Sacabam-HS.png" | relative_url }}){: .inline-image-r}
+![Actual Sacabam]({{ "/assets/images/Sacabam-actual.jpg" | relative_url }}){: .inline-image-r}
 
 The design challenge required balancing two competing objectives: maximum speed and maximum pulling force. Rather than compromising on either, we designed a dual-mode vehicle that could be flipped between configurations:
 
@@ -126,7 +126,7 @@ Working with teammates Nuo Xiang Yan and Yawen Lin, we:
 
 **Course:** ENGRI 1170 - Introduction to Mechanical Engineering  
 **Date:** December 2023  
-**Team:** Yunting Catherine Guo, Nuo Xiang Yan, Yawen Lin 
+**Team:** Yunting Catherine Guo, Nuo Xiang Yan, Yawen Lin  
 **TA:** Mehali Desai  
 **Final Weight:** 697.6 g  
 
