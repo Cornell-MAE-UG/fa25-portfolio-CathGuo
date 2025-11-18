@@ -2,7 +2,7 @@
 layout: project
 title: Medical Diagnostic Device Design
 description: Point-of-Care Diagnostic Cassette Development
-technologies: [Autodesk Fusion 360, 3D Printing, Lateral Flow Assays, Biomedical Engineering]
+technologies: [Autodesk Fusion 360, SolidWorks, 3D Printing, Lateral Flow Assays, Biomedical Engineering]
 image: /assets/images/20250708_ImagingSystem-CLEcassette_out.PNG
 ---
 
@@ -12,7 +12,7 @@ As an undergraduate researcher in the Erickson Lab at Cornell University, I cont
 
 ## FeverPhone: Hemorrhagic Fever Detection
 
-My first major project focused on designing cassettes for the FeverPhone diagnostic system, which detects hemorrhagic fever viruses including Ebola (EBOV), Lassa (LASV), and Marburg (MARV) viruses. I designed and iteratively prototyped over 300 single- and triple-strip Lateral Flow Assay (LFA) cassettes using resin 3D printing.
+My first major project focused on designing cassettes for the FeverPhone diagnostic system, which detects hemorrhagic fever viruses including Ebola (EBOV), Lassa (LASV), and Marburg (MARV) viruses. I designed and iteratively prototyped over 400 single-, double-, and triple-strip Lateral Flow Assay (LFA) cassettes using resin 3D printing.
 
 The cassettes needed to precisely hold test strips while ensuring proper sample flow and creating optimal conditions for smartphone-based fluorescence imaging. Through multiple design iterations, I optimized the cassette geometry for:
 - Consistent strip alignment and tension
@@ -29,10 +29,10 @@ Each design iteration was validated through colorimetric assays to ensure reliab
 For the PoCBreCa (Point-of-Care Breast Cancer) project, I developed three-channel cassette designs for simultaneous detection of multiple breast cancer biomarkers including Progesterone Receptor (PR), Estrogen Receptor (ER), and HER2.
 
 This project introduced new challenges:
-- **Multi-strip alignment**: Ensuring three strips remained parallel and properly spaced
-- **Fluorophore detection**: Designing cassettes optimized for fluorescent signal capture rather than colorimetric readout
-- **Sample distribution**: Creating channels that evenly distribute sample across all three test strips
-- **Manufacturing feasibility**: Balancing design complexity with 3D printing constraints
+- Multi-strip alignment: Ensuring three strips remained parallel and properly spaced
+- Fluorophore detection: Designing cassettes optimized for fluorescent signal capture rather than colorimetric readout
+- Sample distribution: Creating channels that evenly distribute sample across all three test strips
+- Manufacturing feasibility: Balancing design complexity with 3D printing constraints
 
 The multi-channel design required careful attention to mechanical tolerances and material selection to prevent cross-contamination between channels while maintaining structural integrity.
 
@@ -73,12 +73,13 @@ The double-strip format allows for internal controls or simultaneous detection o
 All designs are created in Fusion 360, where I generate detailed 3D models, engineering drawings, and technical figures for research documentation and publications. I work closely with graduate students to understand their experimental requirements and translate them into functional designs.
 
 ### Rapid Prototyping
-Using resin 3D printing (AnyCubic), I can quickly iterate through design variations, typically producing 5-10 test cassettes per design iteration. This rapid prototyping cycle allows for fast optimization based on experimental feedback.
+Using resin 3D printing (AnyCubic), I can quickly iterate through design variations, typically producing 10-20 test cassettes per design iteration. This rapid prototyping cycle allows for fast optimization based on experimental feedback.
 
 ### Validation Testing
 Each design is validated through:
-- **Colorimetric assays**: Testing with visible dye-based detection
-- **Fluorescence assays**: Validation with fluorophore-labeled antibodies
+- **Food coloring flow tests**: Using diluted food coloring to visualize sample flow patterns, verify even distribution across channels, and identify any flow obstructions or dead zones in the cassette geometry
+- **Colorimetric assays**: Testing with visible dye-based detection 
+- **Fluorescence assays** (double- and triple-strip only): Validation with fluorophore-labeled antibodies
 - **Dimensional verification**: Ensuring manufacturing accuracy meets tolerances
 - **User testing**: Getting feedback from lab members on handling and usability
 
@@ -117,8 +118,8 @@ Through this research, I've gained extensive experience in:
 **Duration:** June 2025 - Present  
 **Role:** Undergraduate Researcher  
 **Supervisor:** Prof. David Erickson  
-**Tools:** Autodesk Fusion 360, AnyCubic Resin Printer, Wet Lab Techniques  
-**Output:** 300+ cassette prototypes, 3 major projects, technical drawings and figures for publications
+**Tools:** Autodesk Fusion 360, SolidWorks, AnyCubic Resin Printer, Raise3D Filament Printer, Wet Lab Techniques  
+**Output:** 400+ cassette prototypes, 3 major projects, technical drawings and figures for publications
 
 ---
 
