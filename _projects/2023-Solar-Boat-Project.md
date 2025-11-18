@@ -3,7 +3,7 @@ layout: project
 title: Cornell University Solar Boat - Hull Subteam
 description: Steering System Design & Composite Structure Fabrication
 technologies: [Mechanical Design, Cable-Driven Systems, Composite Fabrication, Team Collaboration]
-image: /assets/images/Solar-splash-2024.png
+image: /assets/images/Solar-splash-2024.JPG
 ---
 
 As Hull Subteam Lead for Cornell University Solar Boat, I lead the design and fabrication of structural components for our solar-powered racing boat. This year, my primary focus has been designing and installing a new cable-driven steering system, while also contributing to cross-team integration efforts as we prepare for Solar Splash 2026. 
