@@ -129,6 +129,15 @@ footer {
     margin-bottom: 15px;
   }
 
+  &-c {
+    @extend .inline-image;
+    display: block;
+    margin: 20px auto;
+    float: none;
+    max-width: 500px;
+    width: 100%;
+  }
+
 }
 
 .profile-image, .project-image {
