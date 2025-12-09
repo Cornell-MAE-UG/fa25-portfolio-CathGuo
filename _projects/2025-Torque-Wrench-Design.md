@@ -9,7 +9,8 @@ image: /assets/images/torque_wrench.png
 
 As part of my mechanical engineering curriculum at Cornell University, I designed and analyzed an instrumented torque wrench rated for 600 in-lbf using integrated analytical methods and finite element analysis (FEM). This project synthesized materials selection, fracture mechanics, fatigue analysis, strain gauge instrumentation, and structural optimization.
 
-![Torque wrench CAD model with dimensions]({{ "/assets/images/torque_wrench_dimension.png" | relative_url }}){: .inline-image-r}
+![Torque wrench CAD model with dimensions]({{ "/assets/images/torque_wrench_dimension.png" | relative_url }})
+
 (dimensions are in inch)
 
 ## Design Overview
@@ -72,7 +73,7 @@ The analytical approach enabled quick exploration of the design space, identifyi
 - Strain at gauge: 1,036 microstrain
 - Predicted output: 1.04 mV/V (exceeds 1.0 mV/V requirement)
 
-![Total deformation contour]({{ "/assets/images/torque_wrench_max_deformation.png" | relative_url }}){: .inline-image-r}
+![Total deformation contour]({{ "/assets/images/torque_wrench_max_deformation.png" | relative_url }})
 
 ### Safety Factor Analysis
 
@@ -91,7 +92,7 @@ Fatigue emerged as the limiting constraint, consistent with design theory for cy
 
 Using ANSYS, I built a detailed finite element model of the final design to validate analytical predictions and capture stress concentrations not visible to simple beam theory.
 
-![Loads and boundary conditions applied to FEM model]({{ "/assets/images/torque_wrench_load_and_boundary.png" | relative_url }}){: .inline-image-l}
+![Loads and boundary conditions applied to FEM model]({{ "/assets/images/torque_wrench_load_and_boundary.png" | relative_url }})
 
 **FEM Setup:**
 - **Boundary conditions:** Fixed constraint on upper 0.4 inches of drive block
@@ -105,11 +106,11 @@ The FEM analysis revealed important details:
 - **Load point deflection:** 0.323 inches (higher than analytical due to drive compliance)
 - **Strain at gauge:** 1,019 microstrain (1.0186×10⁻³ in/in)
 
-![Normal stress contour]({{ "/assets/images/torque_wrench_max_normal_stress.png" | relative_url }}){: .inline-image-r}
+![Normal stress contour]({{ "/assets/images/torque_wrench_max_normal_stress.png" | relative_url }})
 
 <div style="clear: both;"></div>
 
-![Normal strain contours in longitudinal direction]({{ "/assets/images/torque_wrench_normal_strain_contour.png" | relative_url }}){: .inline-image-l}
+![Normal strain contours in longitudinal direction]({{ "/assets/images/torque_wrench_normal_strain_contour.png" | relative_url }})
 
 ### Normal Strain Distribution
 
@@ -119,7 +120,7 @@ At the strain gauge location (0.5 inches from the drive), the strain is approxim
 
 <div style="clear: both;"></div>
 
-![Maximum principal stress distribution]({{ "/assets/images/design_max_principal_stress.png" | relative_url }}){: .inline-image-r}
+![Maximum principal stress distribution]({{ "/assets/images/torque_wrench_max_principal_stress.png" | relative_url }})
 
 ### Maximum Principal Stress Analysis
 
