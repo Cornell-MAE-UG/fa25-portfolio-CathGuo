@@ -36,9 +36,9 @@ The flywheel also contains a small magnet that generates an ignition spark each 
 
 ### Four-Stroke Engine
 
-![piston]({{ "/assets/images/weedwacker_piston.png" | relative_url }}){: .inline-image-c}
-![stroke]({{ "/assets/images/weedwacker_stroke.png" | relative_url }}){: .inline-image-c}
-![cam]({{ "/assets/images/weedwacker_cam.png" | relative_url }}){: .inline-image-c}
+![piston]({{ "/assets/images/weedwacker_piston.png" | relative_url }}){: .inline-image-l}
+![stroke]({{ "/assets/images/weedwacker_stroke.png" | relative_url }}){: .inline-image-r}
+![cam]({{ "/assets/images/weedwacker_cam.png" | relative_url }}){: .inline-image-l}
 
 The weed wacker uses a compact 4-stroke gasoline engine, which comes to life when the flywheel's spark initiates combustion. The engine follows the standard four-stroke cycle:
 
@@ -58,8 +58,8 @@ On the next rotation, the exhaust valve opens, allowing the piston to push exhau
 
 ## Carburetor and Venturi Analysis
 
-![carburetor]({{ "/assets/images/weedwacker_carburetor.png" | relative_url }}){: .inline-image-c}
-![venturi]({{ "/assets/images/weedwacker_venturi.png" | relative_url }}){: .inline-image-c}
+![carburetor]({{ "/assets/images/weedwacker_carburetor.png" | relative_url }}){: .inline-image-l}
+![venturi]({{ "/assets/images/weedwacker_venturi.png" | relative_url }}){: .inline-image-r}
 
 A key component is the carburetor, where two inlet valves control air and fuel flow. Once opened, these allow both fluids to enter the venturi. Its converging–diverging shape creates subsonic, choked flow (Mach < 1), and the pressure drop at the throat pulls fuel into the airstream. This ensures the needed stoichiometric air–fuel ratio is delivered to the engine.
 
