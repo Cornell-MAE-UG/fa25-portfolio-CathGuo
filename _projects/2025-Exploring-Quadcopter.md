@@ -1,13 +1,13 @@
 ---
 layout: project
-title: Quadcopter Attitude Control System
+title: Exploring Quadcopter System
 description: Linearized Dynamics Modeling and Trajectory Optimization
 technologies: [MATLAB, System Dynamics, Control Theory, PD Controller, ODE Modeling, 3D Animation]
 course: MAE 3260 - System Dynamics
 image: /assets/images/quadcopter_animation.png
 ---
 
-[View Full Report (PDF)](/assets/MAE3260_Final_Groupwork.pdf){: .btn}
+[View Full Report (PDF)]({{ "/assets/MAE3260 Final Groupwork.pdf" | relative_url }})
 
 As part of MAE 3260 at Cornell University, our team developed a mathematical model and control system for quadcopter attitude stabilization, comparing traditional step input control with smooth exponential trajectory planning. This project synthesized rigid body dynamics, linearization techniques, PD controller design, and 3D visualization to demonstrate the fundamental trade-offs between response speed and smoothness.
 
