@@ -311,6 +311,9 @@ The five-minute dissection adventure revealed how a pressure drop of just a few 
 
 <div style="clear: both;"></div>
 
+## Individual Contribution
+I contributed to the physical dissectio of the weed wacker engine and measured key geometric dimensions of the carburetor venturi used in the fluid mechanics calculations. I provided voiceover narration for the project video, explaning the design, flow behavior, and key fluid mechanics insights. I also created animated visualizations, including the carburetor and venturi flow animations and four-stroke engine component animations (piston mosion, valve operation, and cam timing). 
+
 ## Team Members
 
 **Carmen Lin, Catherine Guo, Gina Liu, Laura Ren, Rochelle Gao**
